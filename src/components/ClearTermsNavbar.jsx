@@ -24,6 +24,9 @@ export default function ClearTermsNavbar() {
                         <Nav.Link as={NavLink} to="/resources">
                             Resources
                         </Nav.Link>
+                        <Nav.Link as={NavLink} to="/how-it-works">
+                            How it works
+                        </Nav.Link>
                     </Nav>
                 </Navbar.Collapse>
             </Container>
