@@ -2,6 +2,8 @@
 
 ClearTerms is a React web app that helps people **skim long privacy policies**.
 
+👉 Live version: https://justinarhee.github.io/Clear-Terms/
+
 Instead of reading pages of dense legal text, users can paste or upload a policy and get:
 
 - A **keyword-based summary** of data collection, third-party sharing, retention, and user rights  
@@ -9,8 +11,6 @@ Instead of reading pages of dense legal text, users can paste or upload a policy
 - Plain-language **explanation notes** about what to watch out for  
 - A **Highlights View** that marks risky and user-friendly phrases  
 - A per-tab **History** of past analyses
-
-👉 Live version: https://justinarhee.github.io/Clear-Terms/
 
 > ⚠️ ClearTerms is a learning / research tool. It is *not* legal advice.
 
@@ -225,4 +225,5 @@ Use ClearTerms as a starting point to ask better questions about privacy, not as
 
 License
 This project was built as part of UW Madison CS571 by Cole Nelson. Reuse, modification, and redistribution are subject to instructor/course policies.
+
 
